@@ -39,3 +39,5 @@ The system needs to:
 * provide metrics to customers with at most one hour delay.
 * run with minimum downtime.
 * have the ability to reprocess historical data in case of bugs in the processing logic.
+
+-> Solution is provided in "AnalyticsSystems_DesignDocument.pdf" document.
