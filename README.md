@@ -1,5 +1,5 @@
 ### Challenge
-##1. Coding task [TestProject]:
+**1. Coding task:**
 
 In object-oriented and functional programming, an immutable object is an object whose state cannot be modified after it is created. This is in contrast to a mutable object which can be modified after it is created.
 
@@ -30,7 +30,10 @@ public interface Queue[T] {
     public boolean isEmpty();
 }
 ````
-2.Design Question: Design A Google Analytic like Backend System. We need to provide Google Analytic like services to our customers. Pls provide a high level solution design for the backend system. Feel free to choose any open source tools as you want.
+**-> Solution: _TestProject_**<br>
+**-> Evidence: _TestScreenshot.jpg_**
+
+**2. Design Question:** Design A Google Analytic like Backend System. We need to provide Google Analytic like services to our customers. Pls provide a high level solution design for the backend system. Feel free to choose any open source tools as you want.
 
 The system needs to:
 * handle large write volume: Billions write events per day.
@@ -40,4 +43,4 @@ The system needs to:
 * run with minimum downtime.
 * have the ability to reprocess historical data in case of bugs in the processing logic.
 
--> Solution is provided in "AnalyticsSystems_DesignDocument.pdf" document.
+**-> Solution: _AnalyticsSystems_DesignDocument.pdf_**
